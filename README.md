@@ -25,5 +25,8 @@ $ npm start
 ### Edit Movie
 ![editmovie](https://user-images.githubusercontent.com/65674132/124383261-3d075400-dcd4-11eb-8f35-2d9e1793e156.PNG)
 
+### Search Movie
+![searchmovie](https://user-images.githubusercontent.com/65674132/124383322-8bb4ee00-dcd4-11eb-865f-b6320056acfe.PNG)
+
 ### Delete Movie
 ![deletemovie](https://user-images.githubusercontent.com/65674132/124383271-48f31600-dcd4-11eb-9dc8-25a5c1c1a283.PNG)

@@ -1,0 +1,53 @@
+{
+  "movies": [
+    {
+      "name": "The Witcher",
+      "rating": 9.2,
+      "overview": "Dünyaca ünlü kitap dizisinden uyarlanan The Witcher destansı bir ailenin epik öyküsünü konu alıyor. Yalnız bir canavar avcısı olan Rivialı Geralt,xxwcqwfwqvfcfqvwq",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/phCNECtEhlyItIkatYEgDgB90tf.jpg",
+      "id": 3
+    },
+    {
+      "name": "Vikinglercwv155",
+      "rating": 7.5,
+      "overview": "Sekizinci yüzyıl İskandinavyası’nda geçen dizi, basit bir çiftçiyken cesur bir savaşçıya dönüşen Ragnar Lothbrok ve ailesinin öyküsünü ekranlara taşıyordd.fwqfqdddc",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+      "id": 4
+    },
+    {
+      "id": 6,
+      "name": "Kasabadaki Sır",
+      "rating": 3.5,
+      "overview": "Oscar ödüllü oyuncu Susan Sarandon, Juno’nun yıldızı Ellen Page ve Cillian Murphy’den olağanüstü bir psikolojik gerilim. John Skillpa Peacock",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iEtrsxfNw9qmAeML3QSzOe0hrS0.jpg"
+    },
+    {
+      "name": "Feride",
+      "rating": 8.5,
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eZ6rMzjPNyvjfqYAyszn16KH35J.jpg",
+      "overview": "Yer altındaki dikim atölyesinde terzilik yapan ve çakma kahraman kıyafetleri diken Feride’nin hayallerindeki kahramanlar bambaşkadır. Bir gün, emek ve sevgi hırsızı patronu Çetin’e baş kaldırır ve iddiaya girerler. Yer altından çıkan tasarımcı Feride’nin moda gökdelenlerine kafa tutan neşeli yolculuğu başlar. Gücünü sevgiden alan kahramanların hikayesidir bu.      ",
+      "id": 7
+    },
+    {
+      "name": "Teen Wolf (2011)c1",
+      "rating": "8.6",
+      "overview": "Genç Kurt, MTV için Jeff Davis tarafından geliştirilen bir Amerikan televizyon dizisidir. Aynı isimli 1985 yapımı filme dayanmaktadır. Dizinin ana karakteri Ormanda ölü bir kız ararken bir kurt adam tarafından ısırılan lise öğrencisi Scott McCall'dir (Tyler Posey). Scott en iyi arkadaşı Stilinski (Dylan O'Brien) dışında, herkesten kurt adam kimliğini gizli tutarak, normal hayatını muhafaza etmeye çalışmaktadır. Başka gizemli bir kurt adam olan Derek Hale (Tyler Hoechlin) ise, ona hayatında ve vücudundaki değişiklikler konusunda yardımcı olmaktadır.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AeAhT2mRuYFsJc1XqDQ02PBC7s9.jpg",
+      "id": 8
+    },
+    {
+      "name": "Sihirbaz (2006)",
+      "rating": "12",
+      "overview": "Marangoz bir ailenin oğlu olan Eisenheim (Edward Norton), aristokrat bir ailenin kızı Sophia'ya (Jessica Biel) aşık olur; ancak sosyal konumları nedeniyle ilişkilerinin yasaklanması sonucu Avusturya'yı terk ederek dünyayı keşfe çıkar. Eisenheim15 yıl sonra ünlü bir illüzyonist olarak isim yapmıştır; ülkesine döndüğünde eski sevgilisi Sophie Avusturya-Macaristan veliaht prensi Leopold (Rufus Sewell) ile nişanlanmak üzeredir.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4I1oOPHNrHLcvz3wTMuETJLws9z.jpg",
+      "id": 9
+    },
+    {
+      "name": "Luis Miguel: Seri",
+      "rating": "11",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qR0uCwC6umvJUcmvNsSz2FruGXp.jpg",
+      "overview": "Bu dizide, on yıllar boyunca Latin Amerika ve ötesinde dinleyicilerini büyüleyen Meksikalı süperstar şarkıcı Luis Miguel'in yaşam öyküsü anlatılıyor.",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "name": "Game of Thrones",
+      "rating": 8.5,
+      "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. ",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+      "id": 1
+    },
+    {
+      "name": "The Witcher",
+      "rating": 9.2,
+      "overview": "Dünyaca ünlü kitap dizisinden uyarlanan The Witcher destansı bir ailenin epik öyküsünü konu alıyor. Yalnız bir canavar avcısı olan Rivialı Geralt,xxwcqwfwqvfcfqvwq",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/phCNECtEhlyItIkatYEgDgB90tf.jpg",
+      "id": 3
+    },
+    {
+      "name": "Vikinglercwv155",
+      "rating": 7.5,
+      "overview": "Sekizinci yüzyıl İskandinavyası’nda geçen dizi, basit bir çiftçiyken cesur bir savaşçıya dönüşen Ragnar Lothbrok ve ailesinin öyküsünü ekranlara taşıyordd.fwqfqdddc",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+      "id": 4
+    },
+    {
+      "id": 6,
+      "name": "Kasabadaki Sır",
+      "rating": 3.5,
+      "overview": "Oscar ödüllü oyuncu Susan Sarandon, Juno’nun yıldızı Ellen Page ve Cillian Murphy’den olağanüstü bir psikolojik gerilim. John Skillpa Peacock",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iEtrsxfNw9qmAeML3QSzOe0hrS0.jpg"
+    },
+    {
+      "name": "Feride",
+      "rating": 8.5,
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eZ6rMzjPNyvjfqYAyszn16KH35J.jpg",
+      "overview": "Yer altındaki dikim atölyesinde terzilik yapan ve çakma kahraman kıyafetleri diken Feride’nin hayallerindeki kahramanlar bambaşkadır. Bir gün, emek ve sevgi hırsızı patronu Çetin’e baş kaldırır ve iddiaya girerler. Yer altından çıkan tasarımcı Feride’nin moda gökdelenlerine kafa tutan neşeli yolculuğu başlar. Gücünü sevgiden alan kahramanların hikayesidir bu.      ",
+      "id": 7
+    },
+    {
+      "name": "Teen Wolf (2011)c",
+      "rating": "33",
+      "overview": "Genç Kurt, MTV için Jeff Davis tarafından geliştirilen bir Amerikan televizyon dizisidir. Aynı isimli 1985 yapımı filme dayanmaktadır. Dizinin ana karakteri Ormanda ölü bir kız ararken bir kurt adam tarafından ısırılan lise öğrencisi Scott McCall'dir (Tyler Posey). Scott en iyi arkadaşı Stilinski (Dylan O'Brien) dışında, herkesten kurt adam kimliğini gizli tutarak, normal hayatını muhafaza etmeye çalışmaktadır. Başka gizemli bir kurt adam olan Derek Hale (Tyler Hoechlin) ise, ona hayatında ve vücudundaki değişiklikler konusunda yardımcı olmaktadır.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AeAhT2mRuYFsJc1XqDQ02PBC7s9.jpg",
+      "id": 8
+    }
+  ]
+}

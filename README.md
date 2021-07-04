@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Node.JS Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## General info
+This project has made with `React.js` technology. This app powered by `Json-server` and `Sweetalert2` packages.
 
-## Available Scripts
+## Setup
+To run this project, install it locally using npm:
+```
+$ cd ../movie-app
+$ npm install
+- To start json server
+$ json-server --watch /src/api/movies.json --port 3001
+$ npm start
+```
 
-In the project directory, you can run:
+## SCREENSHOTS
 
-### `npm start`
+### Movie List
+![homepage](https://user-images.githubusercontent.com/65674132/124383230-08939800-dcd4-11eb-9223-dc76889dcf12.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Add Movie
+![addmovie](https://user-images.githubusercontent.com/65674132/124383246-24973980-dcd4-11eb-8157-68f3248c1f90.PNG)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Edit Movie
+![editmovie](https://user-images.githubusercontent.com/65674132/124383261-3d075400-dcd4-11eb-8f35-2d9e1793e156.PNG)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Delete Movie
+![deletemovie](https://user-images.githubusercontent.com/65674132/124383271-48f31600-dcd4-11eb-9dc8-25a5c1c1a283.PNG)

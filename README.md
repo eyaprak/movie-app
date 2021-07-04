@@ -1,4 +1,4 @@
-# Node.JS Chat App
+# React.JS Movie App
 
 ## General info
 This project has made with `React.js` technology. This app powered by `Json-server` and `Sweetalert2` packages.

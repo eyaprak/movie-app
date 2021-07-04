@@ -10,6 +10,7 @@ $ cd ../movie-app
 $ npm install
 - To start json server
 $ json-server --watch /src/api/movies.json --port 3001
+- To start application
 $ npm start
 ```
 
